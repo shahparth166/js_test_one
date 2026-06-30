@@ -46,3 +46,42 @@ let stringNumber = String(someNumber);
 // console.log(stringNumber); // "33"
 // console.log(typeof stringNumber); 
 
+// ------------------------- Operations -------------------------
+
+let value = 3
+
+let negVlaue = -value;
+// console.log(negVlaue);
+
+// console.log(3 + 2); // 5
+// console.log(3 - 2); // 1
+// console.log(3 * 2); // 6
+// console.log(3 / 2); // 1.5
+// console.log(3 % 2); // 1
+// console.log(3 ** 2); // 9
+
+let str1 = 'parth';
+let str2 = ' shah';
+
+// console.log(str1 + str2); 
+
+// console.log('1' + 1); // 11
+// console.log(1 + 1 + '1');  // 21 
+
+// console.log(+true);  // 1
+// console.log(+""); // 0
+
+/// prefix and postfix increment and decrement operators
+
+// let x = 5;
+// const y = x++
+
+// console.log('x:', x + ' y:', y);
+
+let x = 5;
+const y = ++x
+
+console.log('x:', x + ' y:', y);
+
+
+
