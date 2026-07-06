@@ -1,4 +1,4 @@
-// Primitive Types:
+// Primitive Types: Also this Stack
 
 // Type: String, Number,Boolean, Null, Undefined, Symbol, BigInt
 
@@ -18,7 +18,7 @@ let thisEmail;
 const isNum = Symbol("123");
 
 
-// Reference Types(Non-Primitive):
+// Reference Types(Non-Primitive): Also this Heap.
 
 // Arrays,Objets, Functions
 
